@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+	<Document id="TbuluKmlVersion2">
+		<name><![CDATA[2019-09-12 12:17:12红河哈尼族彝族自治州绿春县]]></name>
+		<Style id="TrackStyle_n">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=BYohR0x5OLAr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ee0000ff</color>
+				<width>5.000000</width>
+			</LineStyle>
+		</Style>
+		<Style id="TrackStyle_h">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=BYohR0x5OLAr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>7.000000</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="TrackStyle">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#TrackStyle_n</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#TrackStyle_h</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="LineStringStyle">
+			<LineStyle>
+				<color>dd5cba55</color>
+				<width>6.000000</width>
+			</LineStyle>
+		</Style>
+		<Style id="startPointStyle">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=n%2BVE0NaFmzwndk%2BZ75NU9A%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="endPointStyle">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=0Q3GJ5o%2FHpsr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="MarkerStylePicture">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=vMzvc3dTBl0r0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleSound">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=poL0RfxWHTIr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleVideo">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=vMzvc3dTBl0r0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="MarkerStyleText">
+			<IconStyle>
+				<Icon>
+					<href>https://files.2bulu.com/f/d1?downParams=s2An6%2B3%2BIWUr0OBxohfNOA%3D%3D%0A</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff00ffff</color>
+			</LabelStyle>
+		</Style>
+		<ExtendedData>
+			<Data name="TrackId">
+				<value>11131052</value>
+			</Data>
+			<Data name="SportTypeId">
+				<value>18</value>
+			</Data>
+			<Data name="BeginTime">
+				<value>1568259799886</value>
+			</Data>
+			<Data name="EndTime">
+				<value>1568261831765</value>
+			</Data>
+			<Data name="Privacy">
+				<value>0</value>
+			</Data>
+			<Data name="PauseTime">
+				<value>668102</value>
+			</Data>
+			<Data name="TrackTypeId">
+				<value>8</value>
+			</Data>
+			<Data name="TrackTags">
+				<value><![CDATA[绿春21]]></value>
+			</Data>
+			<Data name="PosStartName">
+				<value><![CDATA[龙洞村]]></value>
+			</Data>
+			<Data name="PosEndName">
+				<value><![CDATA[云南省红河哈尼族彝族自治州绿春县龙洞段]]></value>
+			</Data>
+			<Data name="ProductVersion">
+				<value>6.4.60.7</value>
+			</Data>
+			<Data name="CreaterId">
+				<value>22585544</value>
+			</Data>
+			<Data name="CreaterName">
+				<value>zs_4916946</value>
+			</Data>
+			<Data name="OriginCreaterId">
+				<value>0</value>
+			</Data>
+			<Data name="OriginCreaterName">
+			</Data>
+			<Data name="OriginCreaterNickname">
+			</Data>
+			<Data name="Step">
+				<value>1633</value>
+			</Data>
+			<Data name="Calorie">
+				<value>96.828079</value>
+			</Data>
+			<Data name="Mileage">
+				<value>1004.201856</value>
+			</Data>
+			<Data name="Source">
+				<value>0</value>
+			</Data>
+			<Data name="FragmentId">
+				<value>0</value>
+			</Data>
+		</ExtendedData>
+		<Folder id="TbuluHisPointFolder">
+			<name><![CDATA[标注点]]></name>
+			<Placemark id="startPoint">
+				<name><![CDATA[起点]]></name>
+				<description><![CDATA[<div>经度：102.043711</div><div>纬度：23.009679</div><div>海拔：1321.396622</div><div>时间：2019-09-12 11:21:43</div>]]></description>
+				<styleUrl>#startPointStyle</styleUrl>
+				<Point>
+					<coordinates>102.043709,23.009680,1321.396606</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="endPoint">
+				<name><![CDATA[终点]]></name>
+				<description><![CDATA[<div>经度：102.038332</div><div>纬度：23.012229</div><div>海拔：1338.992147</div><div>时间：2019-09-12 12:58:16</div>]]></description>
+				<styleUrl>#endPointStyle</styleUrl>
+				<Point>
+					<coordinates>102.038330,23.012230,1338.992188</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="TbuluTrackFolder">
+			<name><![CDATA[轨迹]]></name>
+			<Placemark>
+				<styleUrl>#TrackStyle</styleUrl>
+				<gx:Track>
+					<ExtendedData>
+						<Data name="GxTrackExtendedData">
+							<value>0.000000,0.0;0.270000,0.0;1.200000,0.0;1.150000,0.0;0.890000,0.0;0.750000,0.0;0.710000,0.0;0.730000,0.0;1.040000,0.0;0.810000,0.0;0.590000,0.0;0.200000,0.0;0.840000,0.0;2.430000,0.0;0.280000,0.0;1.440000,0.0;0.950000,0.0;0.990000,0.0;0.880000,0.0;1.090000,0.0;0.940000,0.0;0.860000,0.0;0.750000,0.0;1.170000,0.0;1.070000,0.0;0.790000,0.0;0.870000,0.0;0.930000,0.0;0.760000,0.0;0.670000,0.0;0.940000,0.0;0.160000,0.0;0.670000,0.0;0.650000,0.0;0.810000,0.0;0.920000,0.0;0.800000,0.0;0.960000,0.0;0.950000,0.0;1.030000,0.0;0.920000,0.0;0.810000,0.0;0.240000,0.0;1.010000,0.0;0.960000,0.0;0.720000,0.0;1.060000,0.0;0.760000,0.0;1.100000,0.0;0.530000,0.0;0.800000,0.0;0.720000,0.0;0.780000,0.0;0.970000,0.0;1.070000,0.0;0.310000,0.0;0.820000,0.0;0.930000,0.0;1.420000,0.0;0.640000,0.0;1.190000,0.0;0.600000,0.0;0.610000,0.0;0.810000,0.0;2.800000,0.0;0.860000,0.0;0.780000,0.0;1.670000,0.0;1.030000,0.0;0.150000,0.0;0.800000,0.0;0.460000,0.0;0.680000,0.0;0.930000,0.0;0.850000,0.0;0.460000,0.0;1.070000,0.0;0.820000,0.0;1.700000,0.0;1.100000,0.0;1.220000,0.0;0.900000,0.0;0.510000,0.0;1.250000,0.0;0.980000,0.0;1.440000,0.0;0.610000,0.0;0.960000,0.0;0.950000,0.0;0.650000,0.0;1.030000,0.0;1.040000,0.0;0.630000,0.0;0.760000,0.0;0.850000,0.0;</value>
+						</Data>
+					</ExtendedData>
+					<gx:coord>102.043711 23.009679 1321.396622</gx:coord>
+					<gx:coord>102.043674 23.009594 1326.218521</gx:coord>
+					<gx:coord>102.043571 23.009583 1326.791275</gx:coord>
+					<gx:coord>102.043474 23.009553 1326.467056</gx:coord>
+					<gx:coord>102.043387 23.009509 1325.412369</gx:coord>
+					<gx:coord>102.043285 23.009484 1325.540665</gx:coord>
+					<gx:coord>102.043207 23.009418 1326.364761</gx:coord>
+					<gx:coord>102.043154 23.009342 1327.696548</gx:coord>
+					<gx:coord>102.043069 23.009286 1330.430679</gx:coord>
+					<gx:coord>102.042965 23.009279 1333.550552</gx:coord>
+					<gx:coord>102.042858 23.009274 1332.383926</gx:coord>
+					<gx:coord>102.042759 23.009287 1332.968521</gx:coord>
+					<gx:coord>102.042660 23.009310 1332.510147</gx:coord>
+					<gx:coord>102.042584 23.009390 1326.731216</gx:coord>
+					<gx:coord>102.042683 23.009426 1331.572525</gx:coord>
+					<gx:coord>102.042745 23.009346 1332.901871</gx:coord>
+					<gx:coord>102.042779 23.009434 1331.536636</gx:coord>
+					<gx:coord>102.042835 23.009509 1327.756363</gx:coord>
+					<gx:coord>102.042869 23.009597 1327.676895</gx:coord>
+					<gx:coord>102.042902 23.009693 1325.437271</gx:coord>
+					<gx:coord>102.042957 23.009772 1325.401871</gx:coord>
+					<gx:coord>102.042977 23.009868 1325.938004</gx:coord>
+					<gx:coord>102.042955 23.009958 1326.562393</gx:coord>
+					<gx:coord>102.042927 23.010049 1325.191055</gx:coord>
+					<gx:coord>102.042828 23.010054 1325.803726</gx:coord>
+					<gx:coord>102.042765 23.010124 1324.137711</gx:coord>
+					<gx:coord>102.042668 23.010116 1325.896255</gx:coord>
+					<gx:coord>102.042565 23.010099 1323.847427</gx:coord>
+					<gx:coord>102.042466 23.010095 1326.677994</gx:coord>
+					<gx:coord>102.042370 23.010121 1326.617691</gx:coord>
+					<gx:coord>102.042276 23.010171 1327.711563</gx:coord>
+					<gx:coord>102.042374 23.010159 1328.407044</gx:coord>
+					<gx:coord>102.042276 23.010145 1328.638497</gx:coord>
+					<gx:coord>102.042197 23.010201 1328.884197</gx:coord>
+					<gx:coord>102.042138 23.010280 1328.872187</gx:coord>
+					<gx:coord>102.042106 23.010371 1329.080245</gx:coord>
+					<gx:coord>102.042024 23.010434 1329.129449</gx:coord>
+					<gx:coord>102.041970 23.010515 1329.722322</gx:coord>
+					<gx:coord>102.041929 23.010605 1330.299094</gx:coord>
+					<gx:coord>102.041861 23.010674 1330.736269</gx:coord>
+					<gx:coord>102.041783 23.010734 1331.206172</gx:coord>
+					<gx:coord>102.041676 23.010736 1331.323093</gx:coord>
+					<gx:coord>102.041581 23.010711 1331.665215</gx:coord>
+					<gx:coord>102.041503 23.010651 1331.782344</gx:coord>
+					<gx:coord>102.041401 23.010660 1332.109944</gx:coord>
+					<gx:coord>102.041355 23.010741 1332.393670</gx:coord>
+					<gx:coord>102.041270 23.010804 1332.423608</gx:coord>
+					<gx:coord>102.041204 23.010873 1332.736839</gx:coord>
+					<gx:coord>102.041151 23.010955 1332.713450</gx:coord>
+					<gx:coord>102.041056 23.011004 1332.881202</gx:coord>
+					<gx:coord>102.040970 23.011046 1333.143955</gx:coord>
+					<gx:coord>102.040893 23.011107 1333.519810</gx:coord>
+					<gx:coord>102.040846 23.011188 1333.739745</gx:coord>
+					<gx:coord>102.040759 23.011239 1333.859820</gx:coord>
+					<gx:coord>102.040665 23.011277 1334.214861</gx:coord>
+					<gx:coord>102.040583 23.011330 1333.563684</gx:coord>
+					<gx:coord>102.040493 23.011369 1334.200985</gx:coord>
+					<gx:coord>102.040407 23.011419 1334.643846</gx:coord>
+					<gx:coord>102.040311 23.011475 1334.897342</gx:coord>
+					<gx:coord>102.040216 23.011502 1334.942162</gx:coord>
+					<gx:coord>102.040136 23.011439 1334.755465</gx:coord>
+					<gx:coord>102.040039 23.011393 1334.445564</gx:coord>
+					<gx:coord>102.039963 23.011333 1334.632026</gx:coord>
+					<gx:coord>102.039883 23.011268 1334.903031</gx:coord>
+					<gx:coord>102.039761 23.011192 1334.905261</gx:coord>
+					<gx:coord>102.039768 23.011314 1335.038374</gx:coord>
+					<gx:coord>102.039745 23.011222 1335.280568</gx:coord>
+					<gx:coord>102.039854 23.011233 1335.245165</gx:coord>
+					<gx:coord>102.039838 23.011330 1334.874599</gx:coord>
+					<gx:coord>102.039771 23.011398 1335.202439</gx:coord>
+					<gx:coord>102.039781 23.011495 1335.326796</gx:coord>
+					<gx:coord>102.039766 23.011586 1335.242697</gx:coord>
+					<gx:coord>102.039731 23.011671 1335.505485</gx:coord>
+					<gx:coord>102.039782 23.011752 1335.605894</gx:coord>
+					<gx:coord>102.039785 23.011843 1335.970442</gx:coord>
+					<gx:coord>102.039744 23.011932 1336.195675</gx:coord>
+					<gx:coord>102.039693 23.012011 1336.378497</gx:coord>
+					<gx:coord>102.039608 23.012069 1336.332205</gx:coord>
+					<gx:coord>102.039497 23.012100 1336.327121</gx:coord>
+					<gx:coord>102.039395 23.012113 1336.373656</gx:coord>
+					<gx:coord>102.039298 23.012164 1336.429145</gx:coord>
+					<gx:coord>102.039202 23.012141 1336.751410</gx:coord>
+					<gx:coord>102.039120 23.012200 1337.139230</gx:coord>
+					<gx:coord>102.039102 23.012303 1337.206225</gx:coord>
+					<gx:coord>102.039026 23.012360 1337.798923</gx:coord>
+					<gx:coord>102.038971 23.012437 1337.953095</gx:coord>
+					<gx:coord>102.038932 23.012522 1338.160189</gx:coord>
+					<gx:coord>102.038848 23.012581 1338.655881</gx:coord>
+					<gx:coord>102.038748 23.012612 1339.270865</gx:coord>
+					<gx:coord>102.038648 23.012601 1339.186335</gx:coord>
+					<gx:coord>102.038553 23.012549 1339.386584</gx:coord>
+					<gx:coord>102.038471 23.012484 1339.493363</gx:coord>
+					<gx:coord>102.038460 23.012380 1339.135313</gx:coord>
+					<gx:coord>102.038404 23.012299 1338.940038</gx:coord>
+					<gx:coord>102.038332 23.012229 1338.992147</gx:coord>
+					<when>2019-09-12T03:43:21Z</when>
+					<when>2019-09-12T03:44:08Z</when>
+					<when>2019-09-12T03:44:34Z</when>
+					<when>2019-09-12T03:44:42Z</when>
+					<when>2019-09-12T03:44:51Z</when>
+					<when>2019-09-12T03:45:14Z</when>
+					<when>2019-09-12T03:45:23Z</when>
+					<when>2019-09-12T03:45:33Z</when>
+					<when>2019-09-12T03:45:42Z</when>
+					<when>2019-09-12T03:45:49Z</when>
+					<when>2019-09-12T03:45:59Z</when>
+					<when>2019-09-12T03:46:18Z</when>
+					<when>2019-09-12T03:46:39Z</when>
+					<when>2019-09-12T03:46:43Z</when>
+					<when>2019-09-12T03:47:24Z</when>
+					<when>2019-09-12T03:50:22Z</when>
+					<when>2019-09-12T03:51:38Z</when>
+					<when>2019-09-12T03:51:50Z</when>
+					<when>2019-09-12T03:51:59Z</when>
+					<when>2019-09-12T03:52:11Z</when>
+					<when>2019-09-12T03:52:20Z</when>
+					<when>2019-09-12T03:52:35Z</when>
+					<when>2019-09-12T03:53:01Z</when>
+					<when>2019-09-12T03:53:25Z</when>
+					<when>2019-09-12T03:53:33Z</when>
+					<when>2019-09-12T03:53:41Z</when>
+					<when>2019-09-12T03:54:18Z</when>
+					<when>2019-09-12T03:54:43Z</when>
+					<when>2019-09-12T03:54:55Z</when>
+					<when>2019-09-12T03:55:06Z</when>
+					<when>2019-09-12T03:55:42Z</when>
+					<when>2019-09-12T03:56:37Z</when>
+					<when>2019-09-12T03:57:06Z</when>
+					<when>2019-09-12T03:57:16Z</when>
+					<when>2019-09-12T03:57:25Z</when>
+					<when>2019-09-12T03:57:43Z</when>
+					<when>2019-09-12T03:57:59Z</when>
+					<when>2019-09-12T03:58:23Z</when>
+					<when>2019-09-12T03:59:33Z</when>
+					<when>2019-09-12T04:02:18Z</when>
+					<when>2019-09-12T04:02:27Z</when>
+					<when>2019-09-12T04:02:37Z</when>
+					<when>2019-09-12T04:02:53Z</when>
+					<when>2019-09-12T04:03:23Z</when>
+					<when>2019-09-12T04:04:07Z</when>
+					<when>2019-09-12T04:04:16Z</when>
+					<when>2019-09-12T04:04:31Z</when>
+					<when>2019-09-12T04:04:40Z</when>
+					<when>2019-09-12T04:04:49Z</when>
+					<when>2019-09-12T04:04:59Z</when>
+					<when>2019-09-12T04:05:42Z</when>
+					<when>2019-09-12T04:05:54Z</when>
+					<when>2019-09-12T04:06:24Z</when>
+					<when>2019-09-12T04:06:34Z</when>
+					<when>2019-09-12T04:06:43Z</when>
+					<when>2019-09-12T04:07:10Z</when>
+					<when>2019-09-12T04:07:56Z</when>
+					<when>2019-09-12T04:08:05Z</when>
+					<when>2019-09-12T04:08:13Z</when>
+					<when>2019-09-12T04:08:23Z</when>
+					<when>2019-09-12T04:08:34Z</when>
+					<when>2019-09-12T04:08:42Z</when>
+					<when>2019-09-12T04:09:05Z</when>
+					<when>2019-09-12T04:09:18Z</when>
+					<when>2019-09-12T04:09:51Z</when>
+					<when>2019-09-12T04:10:02Z</when>
+					<when>2019-09-12T04:10:17Z</when>
+					<when>2019-09-12T04:10:23Z</when>
+					<when>2019-09-12T04:10:33Z</when>
+					<when>2019-09-12T04:10:43Z</when>
+					<when>2019-09-12T04:10:53Z</when>
+					<when>2019-09-12T04:11:07Z</when>
+					<when>2019-09-12T04:11:18Z</when>
+					<when>2019-09-12T04:11:31Z</when>
+					<when>2019-09-12T04:11:43Z</when>
+					<when>2019-09-12T04:11:58Z</when>
+					<when>2019-09-12T04:12:04Z</when>
+					<when>2019-09-12T04:12:14Z</when>
+					<when>2019-09-12T04:12:19Z</when>
+					<when>2019-09-12T04:12:30Z</when>
+					<when>2019-09-12T04:12:47Z</when>
+					<when>2019-09-12T04:12:55Z</when>
+					<when>2019-09-12T04:13:12Z</when>
+					<when>2019-09-12T04:13:55Z</when>
+					<when>2019-09-12T04:14:04Z</when>
+					<when>2019-09-12T04:14:09Z</when>
+					<when>2019-09-12T04:14:17Z</when>
+					<when>2019-09-12T04:14:28Z</when>
+					<when>2019-09-12T04:14:41Z</when>
+					<when>2019-09-12T04:14:50Z</when>
+					<when>2019-09-12T04:14:57Z</when>
+					<when>2019-09-12T04:15:03Z</when>
+					<when>2019-09-12T04:16:22Z</when>
+					<when>2019-09-12T04:16:43Z</when>
+					<when>2019-09-12T04:16:58Z</when>
+				</gx:Track>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
